@@ -49,6 +49,8 @@
         android:layout_marginBottom="16dp"
         android:layout_marginEnd="16dp"
         app:layout_constraintRight_toRightOf="parent"
-        android:layout_marginRight="16dp" />
+        android:layout_marginRight="16dp"
+        app:layout_constraintVertical_bias="0.0"
+        android:scrollIndicators="right|end" />
 
 </android.support.constraint.ConstraintLayout>
